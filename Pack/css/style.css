@@ -1,0 +1,35 @@
+.website-bgcolor{
+    /* background-color: #151515; */
+    background-color: black;
+}
+.card-bgcolor{
+    background-color: #21272C;
+}
+.card-bgcolor:hover{
+    background-color: #374B5B;
+    transition:background-color 0.3s;
+}
+.add-to-card-bgcolor{
+    background-color: #13324A;
+}
+.pointer{
+    cursor: pointer;
+}
+.font-belgrano{
+    font-family: 'Belgrano', serif;
+}
+.font-DM{
+    font-family: 'DM Sans', sans-serif;
+}
+.font-Montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+.banner-bottom-subtext{
+    font-size:12px;
+}
+.plan1-style{
+    line-height: 5px;
+}
+.plan1-style small{
+    font-size:8px;
+}
